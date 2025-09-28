@@ -1,0 +1,5 @@
+main:
+  - title: "Projects"
+    url: /projects/projects.md
+  - title: "Blog"
+    url: /blog/
